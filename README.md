@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Umoja Solutions Web Frontend
+
+A modern web application built with React and TypeScript for Umoja Solutions.
 
 ## Project info
 
@@ -48,7 +50,7 @@ npm run dev
 - Click on the "Code" button (green button) near the top right.
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Edit files directly where the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
